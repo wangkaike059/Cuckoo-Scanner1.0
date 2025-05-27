@@ -1,5 +1,5 @@
-# Cuckoo-Scanner1.0
-Cuckoo Scanner
+# Cuckoo-Scan 1.0
+Cuckoo Scan
 # 布谷鸟漏洞扫描器1.0（其实是2.1了已经）
 
 Cuckoo 是一个简洁的漏洞扫描器，只需一条命令即可启动。该工具适用于快速识别目标域名及其子域名上可能存在的CVE-2025-29927漏洞，适合渗透测试与安全评估使用。
